@@ -140,3 +140,6 @@ class ModelOptions(
         FLAGS.multi_grid, FLAGS.decoder_output_stride,
         FLAGS.decoder_use_separable_conv, FLAGS.logits_kernel_size,
         FLAGS.model_variant)
+# pylint: enable=invalid-name
+  
+  
