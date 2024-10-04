@@ -1,15 +1,13 @@
-# Frequently Asked Questions (FAQs)
+# Tutorials
 
-## General Questions
-1. **What is Copilot?**
-   - Copilot is...
+## Beginner Tutorials
+- **Setting Up Your First Project**
+  - Step-by-step instructions to set up your first project with Copilot.
 
-2. **How do I use Copilot?**
-   - To use Copilot...
+## Intermediate Tutorials
+- **Integrating Copilot with CI/CD**
+  - How to integrate Copilot into your CI/CD pipeline.
 
-## Technical Questions
-1. **How do I configure Copilot for my project?**
-   - To configure Copilot...
-
-2. **What languages does Copilot support?**
-   - Copilot supports...
+## Advanced Tutorials
+- **Extending Copilot's Capabilities**
+  - Learn how to extend and customize Copilot for advanced use cases.
